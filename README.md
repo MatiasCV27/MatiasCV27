@@ -54,6 +54,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
 
+<div align="center">
+
 ![Estadisticas de Github de Matias](https://github-readme-stats.vercel.app/api?username=MatiasCV27&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatiasCV27&theme=radical)](https://git.io/streak-stats) 
 ![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs?username=MatiasCV27&show_icons=true&locale=en&layout=compact&theme=radical)
+
+</div>
