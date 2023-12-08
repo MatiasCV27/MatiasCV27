@@ -15,10 +15,28 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 
 - **Lenguajes**
+
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/%20C%23-%23512BD4?logo=csharp&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Base de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=css3&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 - **Herramientas**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-white?style=for-the-badge&logo=intellijidea&logoColor=%23000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
