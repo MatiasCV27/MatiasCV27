@@ -48,7 +48,6 @@
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-white?style=for-the-badge&logo=intellijidea&logoColor=%23000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-808000?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
